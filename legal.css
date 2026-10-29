@@ -1,0 +1,12 @@
+:root { color-scheme: light dark; }
+body {
+  margin: 0;
+  background: #071422;
+  color: #d6e4f7;
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+h1 { font-weight: 500; letter-spacing: -0.02em; }
+h2 { font-size: 20px; margin-top: 2rem; }
+a { color: #f2ca50; }
+p, li { color: #d6e4f7; }
